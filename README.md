@@ -96,5 +96,9 @@ Para acceder a la interfaz de usuario de H2 use el URL:
 ## Notas finales:
 
 El servicio se expone en el puerto 8089 para evitar conflictos con otros que puedan usar el 8080 por defecto.
+Por cuestiones de tiempo utilice un modelo que ya tenia implementado con anterioridad , que contiene un poco la logica de lo solicitado no asi no cumple con los requierimientos del ejercicio. Pero que sin lugar a dudas puede dar una breve amplitud de mis capacidades y conocimientos. 
+
+DE ANTEMANO MUCHAS GRACIAS
+
 
 
