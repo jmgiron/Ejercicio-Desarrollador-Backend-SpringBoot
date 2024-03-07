@@ -48,7 +48,7 @@ mvn spring-boot:run
 
 ### Pruebas con POSTMAN:
 
-Para probar con Postman importe [este archivo](https://github.com/postman_collection.json).
+Para probar con Postman importe [este archivo](https://github.com/jmgiron/Ejercicio-Desarrollador-Backend-SpringBoot/blob/main/Usuarios.postman_collection.json).
 
 Al autenticar el usuario para solicitar el token, un script guarda en una variable global el JWT regresado. Esta variable se toma al momento de enviar las demás peticiones de mantenimiento del usuario, agregandolo en el encabezado Authorization como Bearer.
 
@@ -59,7 +59,7 @@ Para acceder a la interfaz de usuario de SWAGGER use el URL:
 
 [http://localhost:8089/swagger-ui/](http://localhost:8089/swagger-ui/).
 
-Antes de invocar Endpoints debe presionar el botón ![](https://github.comoton-authorize.jpg) y autenticarse ingresando el JWT generado por Postman para el usuario **jcgalvezv@localhost.cl** y la contraseña **P@ssw0rd** (Usuario inicial en la base de datos).
+Antes de invocar Endpoints debe presionar el botón ![]([https://github.comoton-authorize.jpg](https://github.com/jmgiron/Ejercicio-Desarrollador-Backend-SpringBoot/blob/main/boton-authorize.jpg)) y autenticarse ingresando el JWT generado por Postman para el usuario **jcgalvezv@localhost.cl** y la contraseña **P@ssw0rd** (Usuario inicial en la base de datos).
 
 ### Acceso a UI de H2:
 
@@ -73,7 +73,7 @@ Para acceder a la interfaz de usuario de H2 use el URL:
 ### Diagrama de base de datos:
 
 
-![](https://github.com/juob/master/Diagrama%20Base%20de%20Datos.jpg)
+![]([https://github.com/juob/master/Diagrama%20Base%20de%20Datos.jpg](https://github.com/jmgiron/Ejercicio-Desarrollador-Backend-SpringBoot/blob/main/Diagrama%20Base%20de%20Datos.jpg))
 
 
 ### Diagrama de secuencia para obtener token:
@@ -85,13 +85,13 @@ Para acceder a la interfaz de usuario de H2 use el URL:
 ### Diagrama de secuencia generalizado para dar mantenimiento a los usuarios:
 
 
-![](https://github.cg)
+![]([https://github.cg](https://github.com/jmgiron/Ejercicio-Desarrollador-Backend-SpringBoot/blob/main/Obtencion%20Token.jpeg))
 
 
 ### Diagrama UML de clases JAVA:
 
 
-![](https://git)
+![]([https://git](https://github.com/jmgiron/Ejercicio-Desarrollador-Backend-SpringBoot/blob/main/UML%20Diagrama%20de%20Clases.jpg))
 
 ## Notas finales:
 
