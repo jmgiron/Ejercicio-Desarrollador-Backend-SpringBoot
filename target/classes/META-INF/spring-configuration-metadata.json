@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "rsa.jwt.keys",
+      "type": "com.jgiron.springusuariosrestfull.config.RsaJwtKeyProperties",
+      "sourceType": "com.jgiron.springusuariosrestfull.config.RsaJwtKeyProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "rsa.jwt.keys.private-key",
+      "type": "java.security.interfaces.RSAPrivateKey",
+      "sourceType": "com.jgiron.springusuariosrestfull.config.RsaJwtKeyProperties"
+    },
+    {
+      "name": "rsa.jwt.keys.public-key",
+      "type": "java.security.interfaces.RSAPublicKey",
+      "sourceType": "com.jgiron.springusuariosrestfull.config.RsaJwtKeyProperties"
+    }
+  ],
+  "hints": []
+}

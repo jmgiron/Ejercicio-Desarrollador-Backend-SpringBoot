@@ -1,0 +1,8 @@
+Generar el certificado:
+openssl genrsa -out keypair.pem 2048
+
+Extractar la llave publica del certificado:
+openssl rsa -in keypair.pem -pubout -out public.pem
+
+Extractar la llave privada del certificado:
+openssl pkcs8 -topk8 -inform PEM -outform PEM -nocrypt -in keypair.pem -out private.pem
