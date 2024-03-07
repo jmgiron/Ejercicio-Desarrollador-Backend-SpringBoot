@@ -23,7 +23,7 @@ El proyecto consiste en la creación de un servicio RESTfull para el mantenimien
 
 Para descargar el repositorio use el comando:
 ```
-git clone -b master https://github.com/juancgalvez/spring-usuarios-restfull.git](https://github.com/jmgiron/Ejercicio-Desarrollador-Backend-SpringBoot.git
+git clone -b master https://github.com/jmgiron/Ejercicio-Desarrollador-Backend-SpringBoot](https://github.com/jmgiron/Ejercicio-Desarrollador-Backend-SpringBoot.git
 ```
 
 ## Realización de pruebas.
@@ -59,7 +59,7 @@ Para acceder a la interfaz de usuario de SWAGGER use el URL:
 
 [http://localhost:8089/swagger-ui/](http://localhost:8089/swagger-ui/).
 
-Antes de invocar Endpoints debe presionar el botón ![]([https://github.comoton-authorize.jpg](https://github.com/jmgiron/Ejercicio-Desarrollador-Backend-SpringBoot/blob/main/boton-authorize.jpg)) y autenticarse ingresando el JWT generado por Postman para el usuario **jcgalvezv@localhost.cl** y la contraseña **P@ssw0rd** (Usuario inicial en la base de datos).
+Antes de invocar Endpoints debe presionar el botón ![]([https://github.comoton-authorize.jpg](https://github.com/jmgiron/Ejercicio-Desarrollador-Backend-SpringBoot/blob/main/boton-authorize.jpg)) y autenticarse ingresando el JWT generado por Postman para el usuario **misaelgrande@gmail.com** y la contraseña **P@ssw0rd** (Usuario inicial en la base de datos).
 
 ### Acceso a UI de H2:
 
